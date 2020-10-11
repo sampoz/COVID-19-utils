@@ -9,3 +9,6 @@ python3 convert.py all-exposure-checks.json
 # This creates output.csv, which one can open with Libreoffice:
 libreoffice output.csv
 ```
+
+## Dependencies
+No dependencies, python 3.7 should be enough 🦄
